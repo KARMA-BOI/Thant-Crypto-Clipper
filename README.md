@@ -1,4 +1,4 @@
-# CRYPTO-CLIPPER
+# THANT-CRYPTO-CLIPPER
 A Program That Creates A Crypto Clipper For You
 
 It Supports BTC, LTC, ETH, XMR, XRP, RVN Addresses
